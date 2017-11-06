@@ -1,6 +1,6 @@
 <map version="docear 1.1" dcr_id="1508910454882_v83kk7md9qxij55zba3t5b6v" project="15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN" project_last_home="file:/media/luo/&#x8d44;&#x6599;/&#x6211;&#x7684;&#x575a;&#x679c;&#x4e91;/&#x7814;&#x7a76;&#x751f;&#x641e;&#x5b66;&#x672f;/&#x5927;&#x8bba;&#x6587;/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
-<node TEXT="&#x5e78;&#x798f;&#x611f;&#x76f8;&#x5173;&#x7814;&#x7a76;" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1509002582518"><hook NAME="MapStyle" background="#ffffff" zoom="0.754">
+<node TEXT="&#x5e78;&#x798f;&#x611f;&#x76f8;&#x5173;&#x7814;&#x7a76;" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1509002582518"><hook NAME="MapStyle" background="#ffffff" zoom="0.685">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -82,7 +82,7 @@
 <node TEXT="&#x6d4b;&#x91cf;&#x65b9;&#x6cd5;" ID="ID_233779648" CREATED="1508910575085" MODIFIED="1508910594039">
 <node TEXT="" ID="ID_146916180" CREATED="1508911249115" MODIFIED="1508911249115">
 <node TEXT="&#x81ea;&#x6211;&#x62a5;&#x544a;&#x6cd5;" ID="ID_693893233" CREATED="1509147988021" MODIFIED="1509148235102">
-<node FOLDED="true" ID="ID_1911672107" CREATED="1509153599935" MODIFIED="1509157892351"><richcontent TYPE="NODE">
+<node ID="ID_1911672107" CREATED="1509153599935" MODIFIED="1509966996283"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -100,8 +100,9 @@
     </p>
   </body>
 </html>
+
 </richcontent>
-<node TEXT="&#x91cf;&#x8868;" FOLDED="true" ID="ID_567437851" CREATED="1509148148389" MODIFIED="1509148157998" MOVED="1509153599955">
+<node TEXT="&#x91cf;&#x8868;" ID="ID_567437851" CREATED="1509148148389" MODIFIED="1509148157998" MOVED="1509153599955">
 <node TEXT="&#x4e09;&#x4e2a;&#x8fde;&#x7eed;&#x674e;&#x514b;&#x7279;&#x91cf;&#x8868;&#x8fdb;&#x884c;&#x6d4b;&#x91cf;(&#x4f8b;&#x5982;,&#x201c;&#x5f53;&#x4f60;&#x60f3;&#x5230;&#x8fd9;&#x6b21;&#x6d88;&#x8d39;&#x7684;&#x65f6;&#x5019;,&#x5b83;&#x8ba9;&#x4f60;&#x5728;&#x591a;&#x5927;&#x7a0b;&#x5ea6;&#x4e0a;&#x611f;&#x5230;&#x5feb;&#x4e50;?&#x201d;&#x201c;&#x8fd9;&#x6b21;&#x6d88;&#x8d39;&#x5728;&#x591a;&#x5927;&#x7a0b;&#x5ea6;&#x4e0a;&#x4e3a;&#x4f60;&#x7684;&#x751f;&#x6d3b;&#x5e26;&#x6765;&#x4e86;&#x5e78;&#x798f;&#x611f;&#x53d7;?&#x201d;&#x201c;&#x4f60;&#x8ba4;&#x4e3a;&#x8fd9;&#x6b21;&#x82b1;&#x8d39;&#x5728;&#x591a;&#x5927;&#x7a0b;&#x5ea6;&#x4e0a;&#x6bd4;&#x5176;&#x4ed6;&#x5927;&#x90e8;&#x5206;&#x82b1;&#x8d39;&#x7c7b;&#x578b;&#x66f4;&#x80fd;&#x4e3a;&#x4f60;&#x5e26;&#x6765;&#x5feb;&#x4e50;?&#x201d;&#xa;888 &#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868; van boven2003 --To Do or to Have That Is the Question .pdf" ID="ID_678524799" CREATED="1509153322890" MODIFIED="1509954018714" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/3.&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;/888%20&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868;%20van%20boven2003%20--To%20Do%20or%20to%20Have%20That%20Is%20the%20Question%20.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="101E18E6A811E67F5618E4BC17C3B14BC551839122D3B3E11C4179F460">
     <pdf_title>To Do or to Have? That Is the Question</pdf_title>
@@ -113,7 +114,7 @@
 </node>
 <node TEXT="" ID="ID_1433403550" CREATED="1508911251762" MODIFIED="1508911251762">
 <node TEXT="&#x5176;&#x4ed6;&#x7c7b;&#x578b;&#x62a5;&#x544a;&#x6cd5;" ID="ID_1703081635" CREATED="1509148009315" MODIFIED="1509148021527">
-<node FOLDED="true" ID="ID_1374805630" CREATED="1509153443938" MODIFIED="1509153725105"><richcontent TYPE="NODE">
+<node ID="ID_1374805630" CREATED="1509153443938" MODIFIED="1509967261075"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -125,8 +126,9 @@
     </p>
   </body>
 </html>
+
 </richcontent>
-<node TEXT="&#x91cf;&#x8868;" FOLDED="true" ID="ID_91645942" CREATED="1509153509207" MODIFIED="1509954402511">
+<node TEXT="&#x91cf;&#x8868;" ID="ID_91645942" CREATED="1509153509207" MODIFIED="1509954402511">
 <node TEXT="Good man2009--Happiness for Sale Do Experiential Purchases.pdf" ID="ID_348430954" CREATED="1509153494741" MODIFIED="1509153494741" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509153509227">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
     <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
@@ -469,7 +471,7 @@
     <pdf_title>To Do or to Have? That Is the Question</pdf_title>
 </pdf_annotation>
 </node>
-<node TEXT="" ID="ID_1448759185" CREATED="1509956115198" MODIFIED="1509956115200">
+<node TEXT="" FOLDED="true" ID="ID_1448759185" CREATED="1509956115198" MODIFIED="1509956115200">
 <hook NAME="SummaryNode"/>
 <node TEXT="&#x6a21;&#x578b;.png" ID="ID_1043167070" CREATED="1509956150241" MODIFIED="1509956150241">
 <hook URI="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/../Docear/&#x6a21;&#x578b;.png" SIZE="1.0" NAME="ExternalObject"/>
@@ -494,7 +496,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -546,7 +547,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -599,7 +599,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;" POSITION="right" ID="ID_683357448" CREATED="1508911676797" MODIFIED="1509060710075" HGAP="-10" VSHIFT="50">
+<node TEXT="&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;" POSITION="right" ID="ID_683357448" CREATED="1508911676797" MODIFIED="1509967839595" HGAP="-10" VSHIFT="50">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#00ffff"/>
 <richcontent TYPE="DETAILS">
@@ -635,10 +635,11 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="&#x4e2d;&#x6587;&#x6587;&#x732e;" ID="ID_1641249162" CREATED="1508917545505" MODIFIED="1508918025712" HGAP="30" VSHIFT="60" MOVED="1508918029816">
 <node TEXT="" ID="ID_1205342415" CREATED="1508918044508" MODIFIED="1508918053140">
-<node TEXT="" FOLDED="true" ID="ID_1692245974" CREATED="1508918780552" MODIFIED="1508919641328"><richcontent TYPE="DETAILS">
+<node TEXT="" ID="ID_1692245974" CREATED="1508918780552" MODIFIED="1508919641328"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -918,7 +919,7 @@
   </body>
 </html>
 </richcontent>
-<node ID="ID_762636910" CREATED="1509171422144" MODIFIED="1509439139017" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/4&#x91cf;&#x8868;/888&#x5c31;&#x662f;&#x91cf;&#x8868;%20sirgy%202002%20--Developing_a_Subjective_Measure_of_Consumer_Well-B.pdf"><richcontent TYPE="NODE">
+<node ID="ID_762636910" CREATED="1509171422144" MODIFIED="1509966370768" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/4&#x91cf;&#x8868;/888&#x5c31;&#x662f;&#x91cf;&#x8868;%20sirgy%202002%20--Developing_a_Subjective_Measure_of_Consumer_Well-B.pdf"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -942,6 +943,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="F4E33321FEF584917176B19357AA42D7DBD87E534E45B2236D7712398A90">
     <pdf_title>DevelopingaSubjectiveMeasureofConsumer Well-Being</pdf_title>
@@ -949,7 +951,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_1245007966" CREATED="1508976706049" MODIFIED="1508976706049" MOVED="1508979225461">
-<node TEXT="sirgy, Lee, Kressmann( 2006) &#x8ba4;&#x4e3a;,&#x7279;&#x5b9a;&#x4ea7;&#x54c1;&#xa;( &#x54c1;&#x724c;&#x3001; &#x670d;&#x52a1;) &#x4f1a;&#x5bf9;&#x6d88;&#x8d39;&#x8005;&#x8bb8;&#x591a;&#x5b50;&#x751f;&#x6d3b;&#x9886;&#x57df;&#xa;( &#x5de5;&#x4f5c;&#x3001; &#x4f11;&#x95f2;&#x3001; &#x5bb6;&#x5ead;&#x7b49;)&#x7684;&#x751f;&#x6d3b;&#x8d28;&#x91cf;( QOL)&#xa;&#x4ea7;&#x751f;&#x79ef;&#x6781;&#x5f71;&#x54cd;,&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;&#x5c31;&#x662f;&#x6d88;&#x8d39;&#x8005;&#x5bf9;&#xa;&#x8fd9;&#x4e9b;&#x79ef;&#x6781;&#x5f71;&#x54cd;&#x7684;&#x611f;&#x77e5;&#x7a0b;&#x5ea6;" ID="ID_92594742" CREATED="1509170067701" MODIFIED="1509171769521" VSHIFT="58">
+<node TEXT="sirgy, Lee, Kressmann( 2006) &#x8ba4;&#x4e3a;,&#x7279;&#x5b9a;&#x4ea7;&#x54c1;&#xa;( &#x54c1;&#x724c;&#x3001; &#x670d;&#x52a1;) &#x4f1a;&#x5bf9;&#x6d88;&#x8d39;&#x8005;&#x8bb8;&#x591a;&#x5b50;&#x751f;&#x6d3b;&#x9886;&#x57df;&#xa;( &#x5de5;&#x4f5c;&#x3001; &#x4f11;&#x95f2;&#x3001; &#x5bb6;&#x5ead;&#x7b49;)&#x7684;&#x751f;&#x6d3b;&#x8d28;&#x91cf;( QOL)&#xa;&#x4ea7;&#x751f;&#x79ef;&#x6781;&#x5f71;&#x54cd;,&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;&#x5c31;&#x662f;&#x6d88;&#x8d39;&#x8005;&#x5bf9;&#xa;&#x8fd9;&#x4e9b;&#x79ef;&#x6781;&#x5f71;&#x54cd;&#x7684;&#x611f;&#x77e5;&#x7a0b;&#x5ea6;" FOLDED="true" ID="ID_92594742" CREATED="1509170067701" MODIFIED="1509171769521" VSHIFT="58">
 <node ID="ID_666090102" CREATED="1509171684926" MODIFIED="1509439346229"><richcontent TYPE="NODE">
 
 <html>
@@ -967,7 +969,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x7406;&#x8bba;&#x4f9d;&#x636e;" ID="ID_1526504912" CREATED="1508910560283" MODIFIED="1508910574136" MOVED="1509150152640">
+<node TEXT="&#x76f8;&#x5173;&#x7406;&#x8bba;" ID="ID_1526504912" CREATED="1508910560283" MODIFIED="1509965256435" MOVED="1509150152640">
 <node TEXT="&#x81ea;&#x4e0b;&#x800c;&#x4e0a;&#x751f;&#x6d3b;&#x6ee1;&#x610f;&#x7406;&#x8bba;" ID="ID_1971855302" CREATED="1508911231988" MODIFIED="1509172084785">
 <node ID="ID_1283844108" CREATED="1509170610494" MODIFIED="1509172016505"><richcontent TYPE="NODE">
 
@@ -1010,7 +1012,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x6d4b;&#x91cf;&#x65b9;&#x6cd5;" ID="ID_932583704" CREATED="1508910575085" MODIFIED="1509172261148" MOVED="1508912114639" VSHIFT="21">
+<node TEXT="&#x6d4b;&#x91cf;&#x65b9;&#x6cd5;" ID="ID_932583704" CREATED="1508910575085" MODIFIED="1509172261148" MOVED="1509965269986" VSHIFT="21">
 <node TEXT="&#x81ea;&#x6211;&#x62a5;&#x544a;&#x6cd5;" ID="ID_1532540009" CREATED="1508911249115" MODIFIED="1509172248339"><richcontent TYPE="DETAILS">
 
 <html>
@@ -1030,11 +1032,15 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="&#x751f;&#x6d3b;&#x6ee1;&#x610f;&#x5ea6;&#x91cf;&#x8868;" ID="ID_930863507" CREATED="1509172334299" MODIFIED="1509537871465">
+<node TEXT="&#x751f;&#x6d3b;&#x6ee1;&#x610f;&#x5ea6;&#x91cf;&#x8868;" ID="ID_930863507" CREATED="1509172334299" MODIFIED="1509968614496">
 <icon BUILTIN="bookmark"/>
-<arrowlink SHAPE="LINE" COLOR="#ff3399" WIDTH="2" TRANSPARENCY="140" FONT_SIZE="12" FONT_FAMILY="SansSerif" DESTINATION="ID_930863507" SOURCE_LABEL="&#x8fd9;&#x4e2a;&#x8ddf;&#x516d;&#x7ef4;&#x5ea6;&#x91cf;&#x8868;&#x6709;&#x4ec0;&#x4e48;&#x8054;&#x7cfb;&#x548c;&#x533a;&#x522b;&#xff1f;&#x6d4b;&#x91cf;&#x7684;&#x662f;&#x4ec0;&#x4e48;&#xff1f;&#x5728;&#x4ec0;&#x4e48;&#x65f6;&#x5019;&#x4f7f;&#x7528;&#xff1f;" STARTINCLINATION="-39;340;" ENDINCLINATION="-42;378;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <node TEXT="&#x591a;&#x9879;&#x91cf;&#x8868;" ID="ID_1144633396" CREATED="1509172364217" MODIFIED="1509172370314">
 <node TEXT="Nakano,MacDonald,Douthitt( 1995)  &#x53cc;&#x95ee;&#x9898;&#x91cf;&#x8868;     &#x4f60;&#x89c9;&#x5f97;&#x81ea;&#x5df1;&#x7684;&#x751f;&#x6d3b;&#x6c34;&#x5e73;&#x600e;&#x4e48;&#x6837;&#x2014;&#x4f8b;&#x5982;&#x5bf9;&#x623f;&#xa;Sirgy, Lee, Kamra, Tidwell( 2006&#xff09;&#x56db;&#x9898; 5 &#x7ea7;&#x91cf;&#x8868;   &#x5b50;&#x3001; &#x8f66;&#x5b50;&#x3001; &#x5bb6;&#x5177;&#x7b49;&#x7684;&#x62e5;&#x6709;&#x60c5;&#x51b5;?&#xa;Grzeskowiak, Sirgy( 2007)         &#x56db;&#x9898; 7 &#x7ea7;&#x91cf;&#x8868;    &#x4f60;&#x89c9;&#x5f97;&#x81ea;&#x5df1;&#x7269;&#x8d28;&#x9700;&#x6c42;&#x6ee1;&#x8db3;&#x7684;&#x7a0b;&#x5ea6;&#x600e;&#x4e48;&#x6837;&#xff1f;" ID="ID_1962486697" CREATED="1509172749132" MODIFIED="1509173038683"/>
+<node TEXT="" ID="ID_1018666049" CREATED="1509971092503" MODIFIED="1509971092503">
+<node TEXT="happiness_9068103914076801478.png" ID="ID_1012095966" CREATED="1509971104164" MODIFIED="1509971104164">
+<hook URI="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/../Docear/happiness_9068103914076801478.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -1243,7 +1249,7 @@
 </richcontent>
 <hook NAME="SummaryNode"/>
 </node>
-<node TEXT="&#x5382;&#x5546;&#x6216;&#x653f;&#x7b56;&#x5236;&#x5b9a;&#x8005;&#x89c6;&#x89d2;" ID="ID_71485057" CREATED="1509176561519" MODIFIED="1509537226603" VSHIFT="16"><richcontent TYPE="DETAILS">
+<node TEXT="&#x5382;&#x5546;&#x6216;&#x653f;&#x7b56;&#x5236;&#x5b9a;&#x8005;&#x89c6;&#x89d2;" ID="ID_71485057" CREATED="1509176561519" MODIFIED="1509968751632" VSHIFT="16"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -1277,7 +1283,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Sirgy( 2004) &#x8fd8;&#x7814;&#x7a76;&#x4e86;&#x5168;&#x7403;&#x5316;&#x7684;&#x5f71;&#x54cd;&#x3002;&#x5546;&#x54c1;&#x3001;&#x670d;&#x52a1;&#x3001;&#x8d44;&#x672c;&#x3001;&#x79d1;&#x6280;&#x548c;&#x4eba;&#x624d;&#x7684;&#x5168;&#x7403;&#x5316;&#x8d8b;&#x52bf;&#x964d;&#x4f4e;&#x4e86;&#x5546;&#x54c1;&#x4ef7;&#x683c;&#xff0c;&#x63d0;&#x9ad8;&#x4e86;&#x4ea7;&#x54c1;&#x8d28;&#x91cf;&#xff0c;&#x53d7;&#x76ca;&#x6700;&#x5927;&#x7684;&#x662f;&#x6d88;&#x8d39;&#x8005;&#xff0c;&#x56e0;&#x800c;&#x5168;&#x7403;&#x5316;&#x63d0;&#x9ad8;&#x4e86;&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;&#x6c34;&#x5e73;&#x3002;" ID="ID_1239516962" CREATED="1509438458786" MODIFIED="1509438789255" VSHIFT="10"/>
@@ -1285,10 +1290,346 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x7814;&#x7a76;&#x53d8;&#x91cf;" ID="ID_551868504" CREATED="1508910595001" MODIFIED="1509172264329" VSHIFT="16">
-<node TEXT="&#x81ea;&#x53d8;&#x91cf;" ID="ID_953168449" CREATED="1508911265586" MODIFIED="1509157296288"/>
-<node TEXT="&#x4e2d;&#x4ecb;&#x53d8;&#x91cf;" ID="ID_1064135450" CREATED="1508911268234" MODIFIED="1509157304897"/>
-<node TEXT="&#x8c03;&#x8282;&#x53d8;&#x91cf;" ID="ID_821558333" CREATED="1508911269977" MODIFIED="1509157309767"/>
+<node TEXT="&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x7814;&#x7a76;&#x603b;&#x7ed3;" ID="ID_551868504" CREATED="1508910595001" MODIFIED="1509965884628" VSHIFT="16" MOVED="1509965519377">
+<node TEXT="&#x81ea;&#x53d8;&#x91cf;" ID="ID_1334456264" CREATED="1509149928838" MODIFIED="1509149945344" MOVED="1509965459713">
+<node TEXT="&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x53ca;&#x64cd;&#x7eb5;" ID="ID_325706852" CREATED="1508911265586" MODIFIED="1509150018155" MOVED="1509149928868">
+<node TEXT="&#x7c7b;&#x578b;" ID="ID_486275485" CREATED="1509149067100" MODIFIED="1509149091897">
+<node TEXT="&#x7269;&#x8d28;/&#x4f53;&#x9a8c;&#x6027;&#x8d2d;&#x4e70;" ID="ID_1427764195" CREATED="1509147343644" MODIFIED="1509156645986" MOVED="1509149067129" TEXT_SHORTENED="true">
+<node TEXT="&#xff08;&#x7efc;&#x8ff0;&#xff09;&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x5f71;&#x54cd;&#x5e78;&#x798f;&#x611f;&#x7684;&#x5b9e;&#x9a8c;&#x7814;&#x7a76;&#x8ff0;&#x8bc4;&#x4e0e;&#x542f;&#x793a;.pdf" FOLDED="true" ID="ID_1138929273" CREATED="1508998049008" MODIFIED="1509000849878" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x6d88;&#x8d39;&#x8005;&#x5e78;&#x798f;&#x611f;&#x4e2d;&#x6587;/888&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x5f71;&#x54cd;&#x5e78;&#x798f;&#x611f;&#x7684;&#x5b9e;&#x9a8c;&#x7814;&#x7a76;&#x8ff0;&#x8bc4;&#x4e0e;&#x542f;&#x793a;.pdf" MOVED="1509147343675">
+<icon BUILTIN="ksmiletris"/>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="4D2353EB20E21FA7F1CE4143158B1C5A843A1B79D7EC46AA7349497AF6AB8979">
+    <pdf_title>&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#xa1aa;&#x5fa1;&#xf66a;&#xceaf;&#xc0da;&#xd5f4;&#xc0da;&#xc0da;&#x6969;&#x6969;&#x6969;&#xd0c4;</pdf_title>
+</pdf_annotation>
+<node TEXT="&#x7269;&#x8d28;&#x6027;/&#x4f53;&#x9a8c;&#x6027;&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x4e3b;&#x8981;&#x7814;&#x7a76;.png" ID="ID_1920850450" CREATED="1508986096124" MODIFIED="1508986483478" MOVED="1508998774835">
+<hook URI="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/../Docear/2017-10-26%2010-47-20&#x5c4f;&#x5e55;&#x622a;&#x56fe;.png" SIZE="0.30555516" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="Good man2009--Happiness for Sale Do Experiential Purchases.pdf" ID="ID_1128990361" CREATED="1508987017588" MODIFIED="1509969169873" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509147350121">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
+    <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT=" carter gilovench he Relative Relativity ofM aterialand Experiential Purchases" ID="ID_613663284" CREATED="1508988240450" MODIFIED="1509149734027" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/../../../../../../home/luo/.local/share/data/Mendeley%20Ltd./Mendeley%20Desktop/Downloaded/Carter,%20Gilovich%20-%202010%20-%20The%20relative%20relativity%20of%20material%20and%20experiential%20purchases.pdf" MOVED="1509147350130">
+<attribute_layout NAME_WIDTH="53" VALUE_WIDTH="239"/>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BAAE11D0A94FD08F3E41F5129B30685DF5FE5E2015748B9A71E9D625D82351">
+    <pdf_title>TheRelativeRelativityofMaterialand ExperientialPurchases</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="888 &#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868; van boven2003 --To Do or to Have That Is the Question .pdf2003&#x5e74;&#x5fc3;&#x7406;&#x5b66;&#x5bb6;Van&#x548c;Gibvich&#x5f00;&#x59cb;&#x7684;&#x7269;&#x8d28;&#x6027;&#x8d2d;&#x4e70;(material purchase)&#x548c;&#x4f53;&#x9a8c;&#x6027;&#x8d2d;&#x4e70;(experiential purchase)&#x7684;&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x5212;&#x5206;&#x548c;&#x5b9e;&#x9a8c;&#x8303;&#x5f0f;&#x771f;&#x6b63;&#x5f00;&#x521b;&#x4e86;&#x5bf9;&#x6d88;&#x8d39;&#x7c7b;&#x578b;&#x4e0e;&#x5e78;&#x798f;&#x611f;&#x7684;&#x5b9e;&#x8bc1;&#x7814;&#x7a76;&#x4e4b;&#x5148;&#x6cb3;&#x3002;" ID="ID_576478911" CREATED="1508985728305" MODIFIED="1508985752251" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/3.&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;/888%20&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868;%20van%20boven2003%20--To%20Do%20or%20to%20Have%20That%20Is%20the%20Question%20.pdf" MOVED="1509147350133">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="101E18E6A811E67F5618E4BC17C3B14BC551839122D3B3E11C4179F460">
+    <pdf_title>To Do or to Have? That Is the Question</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="Gilovich 2012--I am what I do, not what I have The differential centrality of experiential and material.pdf" ID="ID_1925718633" CREATED="1509156519704" MODIFIED="1509156519705" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Gilovich%202012--I%20am%20what%20I%20do,%20not%20what%20I%20have%20The%20differential%20centrality%20of%20experiential%20and%20material.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C622C4C2A28793135DD416558811832F017EE1E9C9C5AF9BFF964A8F19942F">
+    <pdf_title>IamwhatIdo,notwhatIhave:Thedifferential centralityofexperientialandmaterial purchasestotheself.</pdf_title>
+</pdf_annotation>
+</node>
+<node ID="ID_1900120758" CREATED="1509156581512" MODIFIED="1509156588225"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">Rosenzweig E,,Gilovich T.uyer&#8217;s Remorse or Missed Opportunity?Differential Regrets for Material and Experiential Purchases</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_302674196" CREATED="1509156648597" MODIFIED="1509156648597"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">CaprarieUo P.A.,Reis H.T.To Do,to Have,or to Share?Valuing Experiences over Material Possessions Depends onthe Involvement of others&#12539;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_351165936" CREATED="1509156789148" MODIFIED="1509156860545"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">Pchelin P.,Howell R.T Hidden Cost of Value&#8212;seeking:People Do Not Accurately Forecast the Economic Benefits of Experimental Purchases</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_290966538" CREATED="1509156913376" MODIFIED="1509156950227"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">BhattacharjeeA.,Mogilner C.Happiness from Ordinary and Extraordinary Experiences</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_406368132" CREATED="1509156971217" MODIFIED="1509157014092"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">Guevarra D.A.,Howell R.T.To Have in Order to Do:Exploring the Effects of Consuming Experiential Products on Well&#8212;being</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_788991539" CREATED="1509157031076" MODIFIED="1509157043604"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff">Kumar A.,Killingsworth M.A.,Gilovieh T.Waiting for Merlot Anticipatory Consumption of Experiential and Material Purchases</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="&#x4eab;&#x4e50;&#x6d88;&#x8d39;" ID="ID_808521995" CREATED="1509147206823" MODIFIED="1509156473999" MOVED="1509149067141" HGAP="12" VSHIFT="21">
+<node TEXT="Hirschman&#x548c;Holbrook &#x4e8e;1982&#x5e74;&#x9996;&#x6b21;&#x63d0;&#x51fa;&#x4eab;&#x4e50;&#x6d88;&#x8d39;(hedonic consumption)&#x7684;&#x5b9a;&#x4e49;,&#x4ed6;&#x4eec;&#x8ba4;&#x4e3a;&#x4eab;&#x4e50;&#x6d88;&#x8d39;&#x662f;&#x5728;&#x4ea7;&#x54c1;&#x4f7f;&#x7528;&#x8fc7;&#x7a0b;&#x4e2d;&#x4f53;&#x9a8c;&#x5230;&#x7684;&#x4e0e;&#x591a;&#x91cd;&#x611f;&#x89c9;&#x3001;&#x5e7b;&#x60f3;&#x548c;&#x60c5;&#x7eea;&#x7b49;&#x65b9;&#x9762;&#x76f8;&#x5173;&#x7684;&#x4e00;&#x79cd;&#x6d88;&#x8d39;&#x884c;&#x4e3a;&#x3002;" ID="ID_1428957203" CREATED="1509146892702" MODIFIED="1509146955226" MOVED="1509147206881"/>
+<node TEXT="Dhar&#x548c;Weaenbroch &#x7387;&#x5148;&#x7814;&#x7a76;&#x4e86;&#x5b9e;&#x7528;&#x54c1;(hedonic goods)&#x548c;&#x4eab;&#x4e50;&#x54c1;(utilitarian goods)&#x7684;&#x51b3;&#x7b56;&#x95ee;&#x9898;&#x3002;&#x4ed6;&#x4eec;&#x628a;&#x4eab;&#x4e50;&#x54c1;&#x5b9a;&#x4e49;&#x4e3a;&#x201c;&#x63d0;&#x4f9b;&#x4e86;&#x66f4;&#x591a;&#x4f53;&#x9a8c;&#x6027;&#x6d88;&#x8d39;,&#x66f4;&#x5177;&#x8da3;&#x5473;&#x3001;&#x6109;&#x60a6;&#x548c;&#x6fc0;&#x60c5;&#x7684;&#x4ea7;&#x54c1;(&#x5982;&#x54c1;&#x724c;&#x670d;&#x88c5;&#x548c;&#x8dd1;&#x8f66;),&#x800c;&#x5b9e;&#x7528;&#x54c1;&#x4e3b;&#x8981;&#x4ee5;&#x5de5;&#x5177;&#x6027;&#x548c;&#x529f;&#x80fd;&#x6027;&#x4e3a;&#x4e3b;(&#x5982;&#x5fae;&#x6ce2;&#x7089;&#x548c;&#x5c0f;&#x8d27;&#x8f66;)&#x201d;" ID="ID_1598586611" CREATED="1509147001571" MODIFIED="1509147084242" MOVED="1509147206907"/>
+</node>
+<node TEXT="&#x4eb2;&#x793e;&#x4f1a;/&#x4e2a;&#x4eba;&#x82b1;&#x8d39;" ID="ID_1578287161" CREATED="1509148046442" MODIFIED="1509156465247" MOVED="1509149067154" VSHIFT="21">
+<node TEXT="&#x5982;Dunn&#x7b49; &#x308;&#x526f;&#x5bf9;&#x4eb2;&#x793e;&#x4f1a;&#x82b1;&#x8d39;(pmsocial spending)&#x83b7;&#x5f97;&#x7684;&#x5e78;&#x798f;&#x611f;&#x4f18;&#x4e8e;&#x4e2a;&#x4eba;&#x82b1;&#x8d39;(personal spending)&#x7684;&#x9a8c;&#x8bc1;&#x3002;" ID="ID_1618396402" CREATED="1509147141713" MODIFIED="1509147153436" MOVED="1509148046473"/>
+</node>
+</node>
+<node TEXT="&#x64cd;&#x7eb5;" ID="ID_1535398455" CREATED="1509147791623" MODIFIED="1509156470600" VSHIFT="32">
+<node ID="ID_1499738733" CREATED="1509149419666" MODIFIED="1509149509456" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/3.&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;/888%20&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868;%20van%20boven2003%20--To%20Do%20or%20to%20Have%20That%20Is%20the%20Question%20.pdf" MOVED="1509149443156"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">&#22238;&#24518;</font>&#12290;&#22823;&#37096;&#20998;&#25991;&#29486;&#30340;&#20856;&#22411;&#25805;&#32437;&#26041;&#24335;&#37117;&#26159;&#24212;&#29992;&#31867;&#20284;Van Boven&#21644;Gilovich &#30340;&#25805;&#25511;&#26041;&#27861;,&#22238;&#24518;&#29289;&#36136;&#24615;&#36141;&#20080;&#21644;&#20307;&#39564;&#24615;&#36141;&#20080;&#20004;&#31181;&#19981;&#21516;&#28040;&#36153;&#31867;&#22411;,&#28982;&#21518;&#23545;&#36825;&#19968;&#28040;&#36153;&#30340;&#24184;&#31119;&#24863;&#21463;&#20570;&#20986;&#33258;&#25105;&#25253;&#21578;,&#20174;&#32780;&#27604;&#36739;&#29289;&#36136;&#24615;&#36141;&#20080;&#21644;&#20307;&#39564;&#24615;&#36141;&#20080;&#23545;&#24184;&#31119;&#24863;&#30340;&#24433;&#21709;&#12290;888 &#23454;&#39564;&#36807;&#31243;&#65292;&#26377;&#28857;&#37327;&#34920; van boven2003 --To Do or to Have That Is the Question .pdf1.
+    </p>
+  </body>
+</html>
+</richcontent>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="101E18E6A811E67F5618E4BC17C3B14BC551839122D3B3E11C4179F460">
+    <pdf_title>To Do or to Have? That Is the Question</pdf_title>
+</pdf_annotation>
+</node>
+<node ID="ID_1281793386" CREATED="1509149573317" MODIFIED="1509149623310" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Carter,%20Gilovich%20-%202010%20-%20The%20relative%20relativity%20of%20material%20and%20experiential%20purchases.pdf" MOVED="1509149606108"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">&#24819;&#35937;</font>&#12290;&#35753;&#34987;&#35797;&#24819;&#35937;&#19981;&#21516;&#30340;&#28040;&#36153;&#24773;&#22659;,&#23588;&#20854;&#26159;Carter&#21644;Gilovichl201(&#30740;&#31350;6)&#35753;&#34987;&#35797;&#23545;&#21516;&#19968;&#20135;&#21697;&#22312;&#19981;&#21516;&#24341;&#23548;&#19979;,&#21576;&#29616;&#29289;&#36136;&#24615;&#21644;&#20307;&#39564;&#24615;&#20004;&#31181;&#19981;&#21516;&#30340;&#28040;&#36153;&#24773;&#22659;,&#20174;&#32780;&#36798;&#21040;&#23545;&#33258;&#21464;&#37327;&#30340;&#25805;&#32437;Carter, Gilovich - 2010 - The relative relativity of material and experiential purchases.pdf
+    </p>
+  </body>
+</html>
+</richcontent>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BAAE11D0A94FD08F3E41F5129B30685DF5FE5E2015748B9A71E9D625D82351">
+    <pdf_title>TheRelativeRelativityofMaterialand ExperientialPurchases</pdf_title>
+</pdf_annotation>
+</node>
+<node ID="ID_88002773" CREATED="1509149675102" MODIFIED="1509149704525" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509149689586"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000">&#34892;&#20026;&#36873;&#25321;</font>&#12290;Nicolao&#31561; &#776;&#21483;(&#30740;&#31350;4)&#35753;&#21442;&#19982;&#32773;&#22312;&#23454;&#39564;&#23460;&#33457;&#8220;&#23454;&#39564;&#24065;&#8221;,&#36141;&#20080;&#20307;&#39564;&#25110;&#29289;&#36136;&#20135;&#21697;,
+    </p>
+    <p>
+      &#28982;&#21518;&#22312;&#19981;&#21516;&#30340;&#26102;&#38388;&#38388;&#38548;&#20043;&#21518;&#27979;&#37327;&#20854;&#24184;&#31119;&#24863;&#12290;Good man2009--Happiness for Sale Do Experiential Purchases.pdf
+    </p>
+  </body>
+</html>
+</richcontent>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
+    <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
+</pdf_annotation>
+</node>
+</node>
+</node>
+<node TEXT="&#x76f8;&#x5173;&#x53d8;&#x91cf; &#x6536;&#x5165;" ID="ID_329982207" CREATED="1508911268234" MODIFIED="1509966017569" VSHIFT="18" MOVED="1509149928887">
+<node ID="ID_846856949" CREATED="1508983955074" MODIFIED="1509157148921"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#32654;&#22269;&#24515;&#29702;&#23398;&#23478;Dunn&#31561;&quot;&#23558;&#22823;&#37327;&#21069;&#20154;&#30340;&#23454;&#35777;&#30740;&#31350;&#36827;&#34892;&#24635;&#32467;&#24402;&#32435;,&#26368;&#32456;&#35748;&#20026;&#37329;&#38065;&#8220;&#20080;&#8221;&#19981;&#26469;&#24184;&#31119;&#30340;&#21407;&#22240;&#22312;&#20110;&#20154;&#20204;&#27809;&#26377;&#27491;&#30830;&#30340;&#33457;&#38065;
+    </p>
+    <p>
+      <font color="#0000ff">DunnE.W.,Gilbert D.T.&#65306;If Money Doesn&#8217;t Make You Happy,Then You Probably Aren&#8217;t Spending it right&#65289;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1953840304" CREATED="1508984274316" MODIFIED="1509001451611"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#21556;&#20029;&#27665;&#21644;&#34945;&#23665;&#26519;&#20063;&#35748;&#20026;&#28040;&#36153;&#26159;&#25910;&#20837;&#19982;&#24184;&#31119;&#30340;&#20013;&#38388;&#21464;&#37327;,&#21363;&#25910;&#20837;&#30340;&#23454;&#38469;&#28040;&#36153;&#29366;&#20917;&#25165;&#26159;&#24184;&#31119;&#24863;&#30340;&#20851;&#38190;&#21464;&#37327;&#12290;&#65288;<font color="#0000ff">&#21556;&#20029;&#27665;,&#34945;&#23665;&#26519;.&#24184;&#31119;&#35270;&#35282;&#21010;&#20998;&#28040;&#36153;&#31867;&#22411;&#30340;&#29702;&#35770;&#26500;&#24819;&#19982;&#23454;&#35777;&#35299;&#26512;[J].&#36130;&#32463;&#35770;&#19995;,2012,168(6):99&#12539;105</font>&#65289;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="&#x4e2d;&#x4ecb;&#x53d8;&#x91cf;" ID="ID_1842254975" CREATED="1508911269977" MODIFIED="1509156082564" VSHIFT="43" MOVED="1509965522681">
+<node TEXT="&#x4eab;&#x4e50;&#x5c5e;&#x6027;&#xa;Good man2009--Happiness for Sale Do Experiential Purchases.pdf" ID="ID_1069883058" CREATED="1509154542473" MODIFIED="1509969525613" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509154545320">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
+    <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="&#x81ea;&#x6211;&#x7684;&#x8ba4;&#x540c;&#xa;Gilovich 2012--I am what I do, not what I have The differential centrality of experiential and material.pdf" ID="ID_1452463833" CREATED="1509154618764" MODIFIED="1509969527355" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Gilovich%202012--I%20am%20what%20I%20do,%20not%20what%20I%20have%20The%20differential%20centrality%20of%20experiential%20and%20material.pdf" MOVED="1509154622739">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C622C4C2A28793135DD416558811832F017EE1E9C9C5AF9BFF964A8F19942F">
+    <pdf_title>IamwhatIdo,notwhatIhave:Thedifferential centralityofexperientialandmaterial purchasestotheself.</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="&#x6ee1;&#x8db3;&#x62bd;&#x8c61;&#x7684;&#x6784;&#x5efa;&#x65b9;&#x5f0f;&#xff0c;&#x4ee5;&#x4fbf;&#x4e8e;&#x8fdb;&#x884c;&#x6b63;&#x9762;&#x7684;&#x518d;&#x89e3;&#x91ca;&#x3002;&#xa;888 &#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868; van boven2003 --To Do or to Have That Is the Question .pdf" ID="ID_1557073386" CREATED="1509154666784" MODIFIED="1509156020141" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/3.&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;/888%20&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868;%20van%20boven2003%20--To%20Do%20or%20to%20Have%20That%20Is%20the%20Question%20.pdf" MOVED="1509154805437">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="101E18E6A811E67F5618E4BC17C3B14BC551839122D3B3E11C4179F460">
+    <pdf_title>To Do or to Have? That Is the Question</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="&#x8d2d;&#x540e;&#x6bd4;&#x8f83;&#xa;Travis J Carter ,Thomas Gilovich2010--The Relative Relativity of Material and Experiential Purchases.pdf" ID="ID_132417695" CREATED="1509154796789" MODIFIED="1509969528952" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Travis%20J%20Carter%20,Thomas%20Gilovich2010--The%20Relative%20Relativity%20of%20Material%20and%20Experiential%20Purchases.pdf" MOVED="1509154819186">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="C2BAAE11D0A94FD08F3E41F5129B30685DF5FE5E2015748B9A71E9D625D82351">
+    <pdf_title>TheRelativeRelativityofMaterialand ExperientialPurchases</pdf_title>
+</pdf_annotation>
+</node>
+<node ID="ID_1266433784" CREATED="1509154482805" MODIFIED="1509969530182"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#21518;&#24724;
+    </p>
+    <p>
+      R<font color="#0000ff">osenzweig E,,Gilovich T.uyer&#8217;s Remorse or Missed Opportunity?Differential Regrets for Material and Experiential Purchases</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1527234165" CREATED="1509155017339" MODIFIED="1509969531391"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#31038;&#20250;&#23646;&#24615;
+    </p>
+    <p>
+      &#12290;<font color="#0000ff">CaprarieUo P.A.,Reis H.T.To Do,to Have,or to Share?Valuing Experiences over Material Possessions Depends onthe Involvement of others</font>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="&#x8c03;&#x8282;&#x53d8;&#x91cf;" ID="ID_144372650" CREATED="1508911272257" MODIFIED="1509156075397" VSHIFT="43">
+<node ID="ID_245657591" CREATED="1509155419681" MODIFIED="1509956115208" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509155429961"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#29289;&#36136;&#20027;&#20041;&#12289;&#36141;&#20080;&#20542;&#21521;&#21644;&#24180;&#40836;&#31561;&#20010;&#20154;&#29305;&#36136;&#22240;&#32032;&#12290;
+    </p>
+    <p>
+      Good man2009--Happiness for Sale Do Experiential Purchases.pdf&#12290;
+    </p>
+    <p>
+      2.<font color="#0000ff">zhang J.W.,Howell &#160;R.T.,Caprariello P.A.,et a1.Damned If They Do,Damned If They Don&#8217;t:Material Buyers Are Not Happierfrom Material ExperientialorConsumption&#12290; </font>
+    </p>
+    <p>
+      <font color="#0000ff">3.BhattacharjeeA.,Mogilner C.Happiness from Ordinary and Extraordinary Experiences</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
+    <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
+</pdf_annotation>
+<hook NAME="FirstGroupNode"/>
+</node>
+<node ID="ID_517944531" CREATED="1509155750718" MODIFIED="1509156643198" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/Good%20man2009--Happiness%20for%20Sale%20Do%20Experiential%20Purchases.pdf" MOVED="1509155762263"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#28040;&#36153;&#25928;&#20215;(valence)&#21644;&#20182;&#20154;&#28041;&#20154;&#31561;&#22240;&#32032;
+    </p>
+    <p>
+      Good man2009--Happiness for Sale Do Experiential Purchases.pdf
+    </p>
+    <p>
+      2.<font color="#0000ff">CaprarieUo P.A.,Reis H.T.To Do,to Have,or to Share?Valuing Experiences over Material Possessions Depends onthe Involvement of others&#12539;</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="5B3A9BF9EED42EE089922D8A8548CC21CCC9ABB5E7C4332D4EFCD2D84A37747">
+    <pdf_title>Happiness for Sale: Do Experiential Purchases Make Consumers Happier than Material Purchases?</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="&#x65f6;&#x95f4;&#x8ddd;&#x79bb;(temporal distance)&#xa;888 &#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868; van boven2003 --To Do or to Have That Is the Question .pdf" ID="ID_175466159" CREATED="1509155976075" MODIFIED="1509156001492" LINK="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/&#x5927;&#x5e78;&#x798f;&#x611f;&#x82f1;&#x6587;/3.&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;/888%20&#x5b9e;&#x9a8c;&#x8fc7;&#x7a0b;&#xff0c;&#x6709;&#x70b9;&#x91cf;&#x8868;%20van%20boven2003%20--To%20Do%20or%20to%20Have%20That%20Is%20the%20Question%20.pdf" MOVED="1509155993662">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="101E18E6A811E67F5618E4BC17C3B14BC551839122D3B3E11C4179F460">
+    <pdf_title>To Do or to Have? That Is the Question</pdf_title>
+</pdf_annotation>
+</node>
+<node TEXT="" ID="ID_483721902" CREATED="1509956115198" MODIFIED="1509956115200">
+<hook NAME="SummaryNode"/>
+<node TEXT="&#x6a21;&#x578b;.png" ID="ID_1537003061" CREATED="1509956150241" MODIFIED="1509956150241">
+<hook URI="project://15F511C752D9HM3ZM49U4W8TH30UAYCYQLSN/../Docear/&#x6a21;&#x578b;.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
